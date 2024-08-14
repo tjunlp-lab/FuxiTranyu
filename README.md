@@ -14,7 +14,7 @@ In addition to the base model and its checkpoints, we also release two instructi
     <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FuxiTranyu%20Chat-ffc107?color=ffc107&logoColor=white"/></a>
 </div>
 <div align='center'>
-  <a href="https://arxiv.org/abs/2408" target="_blank">
+  <a href="https://arxiv.org/abs/2408.06273" target="_blank">
     <img alt="Arxiv" src="https://img.shields.io/badge/Arxiv-FuxiTranyu-7289da?logo=arxiv&logoColor=red&color=red" /></a>
   <a href="https://tjunlp-lab.github.io/" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/Github-TJUNLP-7289da?logo=github&logoColor=black&color=black" /></a>
